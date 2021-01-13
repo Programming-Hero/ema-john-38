@@ -1,0 +1,27 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid grey;
+    padding-bottom: 25px;
+    padding-top: 20px;
+}
+.product .product-img{
+
+}
+.product .product-info{
+    padding-left: 20px;
+}
+.product .product-info h3{
+    text-decoration: none;
+}
+.mainBtn{
+    width: 180px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    background: gold;
+    font-size: 18px;
+    cursor: pointer;
+}
+.svg-inline--fa.fa-w-18 {
+    padding-right: 10px;
+}
